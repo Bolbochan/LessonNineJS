@@ -1,0 +1,124 @@
+body{
+background-image: url(/images/bckg/BG.png);
+background-size: 100%;
+font-family: 'Lato', sans-serif;
+}
+/*header*/
+.top{
+    margin-top: 17%;
+    margin-left: 17%;
+    margin-right: 17%;
+}
+.top-header{
+    background-color: #2B3040;
+    display: flex;
+    justify-content: space-around;
+    padding: 4%;
+    color: #B7BACD;
+}
+.top-header-one{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 78px;
+    justify-content: space-around;
+}
+.top-header-two{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 78px;
+    justify-content: space-around;
+}
+.top-header-three{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 78px; 
+    justify-content: space-around;
+}
+
+/*footer*/
+.top-footer{
+    background-color: #212534;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: white;
+}
+.top-footer-left{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.top-footer-right{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.top-footer-right-head{
+    display: flex;
+    justify-content: space-between;
+}
+.top-footer-right-low{
+    display: flex;
+    justify-content: space-between;
+}
+/*footer-txt-mod*/
+.top-footer-right-head-txt{
+    font-size: 32px;
+}
+.top-footer-right-head-p{
+    padding-top: 4%;
+    font-size: 14px;
+}
+.top-footer-right-medium{
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 300;
+}
+.top-footer-right-low-txt{
+    color: #FEDC3F;
+    font-size: 12px;
+    font-weight: 700;
+}
+.top-footer-right-low-txt-p{
+    color: white;
+    font-size: 32px;
+    padding-top: 2%;
+}
+.top-footer-right-low-btn{
+    color: white;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 10%;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #13E28D;
+    border: none;
+}
+
+/*blok 2*/
+.bloktwo-top-footer{
+    background-color: #212534;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: white;
+    margin-left: 17%;
+    margin-right: 17%;
+}
+
+/*blok 3*/
+.blokthree-top-footer{
+    background-color: #212534;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    color: white;
+    margin-left: 17%;
+    margin-right: 17%;
+}
